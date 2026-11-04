@@ -20,6 +20,7 @@ or unique functionality of Optiland.
     miscellaneous/paraxial_image_height_field
     miscellaneous/real_image_height_field
     miscellaneous/themes
+    miscellaneous/glass_property_coloring
     miscellaneous/lens_draw_projection
     miscellaneous/ray_aiming
     miscellaneous/eye
